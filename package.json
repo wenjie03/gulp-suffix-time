@@ -1,0 +1,23 @@
+{
+  "name": "gulp-suffix-time",
+  "version": "0.0.1",
+  "description": "gulp plug-in unit, Add a timestamp to a static file",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "time",
+    "timestamp"
+  ],
+  "author": "qingfengwumian",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.0",
+    "through2": "^0.6.1"
+  },
+}
