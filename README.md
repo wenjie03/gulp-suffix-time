@@ -1,14 +1,14 @@
 ## gulp-suffix-time
 
-给静态文件添加时间戳(?v=)
+Add a timestamp to a static file (?v=)
 
-## 安装
+## Install
 
 ```
 npm install gulp-suffix-time
 ```
 
-## 用法
+## Usage
 
 ```js
 var gulp = require('gulp');
@@ -21,12 +21,12 @@ gulp.task('rev',function() {
 });
 ```
 
-## 参数
+## Parameter
 
 无
 
 
-## 例子
+## Example
 
 ```js
 var gulp = require('gulp');
